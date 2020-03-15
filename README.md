@@ -1,8 +1,4 @@
-# tezos-cli-docker
-
-
-
-tezos-cli-docker is a set of scripts to build the tezos-cli tools and containerize them, as well as some convenience scripts to invoke the different binaries. Currently it is a work in progress, so __expect things to break__!
+# tezos-docker
 
 ## Features
 
